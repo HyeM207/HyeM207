@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
-<br><br>
+<br>
 <h2 align="center"> ⚒ I've used at least once ⚒ </h2>
 <h5 align="center"> Languages & Platforms </h5>
 <p align="center">
