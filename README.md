@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HyeM207&fontAlign=30&fontSize=30&desc=Hye%20Min%20Kim&descAlign=60&descAlignY=50&theme=radical&animation=fadeIn)
 
 <p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeM207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <a href="https://melon-cuckoo-c71.notion.site/HyeM207-c2fe8fca01624595ae456068b2ab6f1f"><img src="https://img.shields.io/badge/Portfolio-d83a7c?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://hyem207.tistory.com"><img src="https://img.shields.io/badge/Blog(newer)-09B3AF?style=flat-square&logoColor=white"/></a>
   <a href="https://plan0a-0z-entering-security.tistory.com/"><img src="https://img.shields.io/badge/Blog(prev)-5AB552?style=flat-square&logoColor=white"/></a>
