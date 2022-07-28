@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center"> ✨ Hye Min Kim ✨ </h2> 
-<h5 align="center"> 🌱 I’m currently a senior at Seoul Women's University majoring in Information Security.</h5>
+<h5 align="center"> 🌱 I’m a senior at Seoul Women's University majoring in Information Security.</h5>
 <p align="center"> </p>
 
 <h5 align="center"> ✏ I’m currently learning Spring and Data engineering.</h5>
