@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 
 <h2 align="center"> ✨ Hye Min Kim ✨ </h2> 
 <h5 align="center"> 🌱 I’m a senior at Seoul Women's University majoring in Information Security.</h5>
+<h5 align="center"> ⚡ I’m a senior at Seoul Women's University majoring in Information Security.</h5>
 <p align="center"> </p>
 
-<h5 align="center"> ✏ I’m currently learning Spring and Data engineering.</h5>
 <p align="center">  </p>
 
 <h5 align="center"> 🌟Hope </h5>
 <p align="center">
-  <b>Backend Engineer | Data Engineer</b>
+  <b>Data Engineer</b>
 </p>
 
 <h5 align="center"> 🎇 Interest </h5>
 <p align="center">
-  <b>Backend, Big Data, Cloud </b>
+  <b> Big Data, Cloud, Backend </b>
 </p>
 
 
