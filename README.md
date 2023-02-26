@@ -1,8 +1,53 @@
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=HyeM207&fontAlign=30&fontSize=30&desc=Hye%20Min%20Kim&descAlign=60&descAlignY=50&theme=radical&animation=fadeIn)
+
+
+## Hi, I'm Hyemin 👋
+I'm majoring in <b>Information Security</b> at Seoul Women's University. 👩‍💻  
+- I enjoy working with <b>data🌱</b>, and I’m currently learning `data engineering`.  
+- I like sharing opinions, knowledge, and experiences with diverse people. 👯
+- 😄 I am a careful person , but I become more daring when I have a clear goal. 
+- ⚡ Fun fact:  I'm fueled by coffee ☕. `"PERFECT" if coffee and coding else False`
+
+
+
+#### Contact me by <a href="mailto:hmk9667@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
+<br>
+
+## 📚 Tech Stack 📚 
+| Languages  | <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>   |
+|---|---|
+| Framework  | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> |
+| DB |  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> | 
+| Infra |  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> |
+
+Currently, I'm studying Spark, Kafka and ELK Stack. 
+
+<br>
+
+### 
+
+
+## ✅ Git Stats
+
+<div align="left">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeM207&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeM207&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <!--
-**HyeM207/HyeM207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ✨ Hyemin Kim ✨
+#### Hi, I'm Hyemin 👋
+
+-  I'm majoring in <b>Information Security</b> at Seoul Women's University. 
+- I like working with <b>data🌱</b>, and I’m currently learning <b>`data engineering`</b>.
+- I like sharing opinions, knowledge, and experiences with diverse people 👯.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +57,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HyeM207&fontAlign=30&fontSize=30&desc=Hye%20Min%20Kim&descAlign=60&descAlignY=50&theme=radical&animation=fadeIn)
 
@@ -85,3 +129,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&theme=radical&section=footer)
+-->
+
