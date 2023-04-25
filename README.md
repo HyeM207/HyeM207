@@ -22,20 +22,8 @@ I'm majoring in <b>Information Security</b> at Seoul Women's University. 👩‍
 | DB |  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> | 
 | Infra |  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> |
 
-Currently, I'm studying Spark, Kafka and ELK Stack. 
 
 <br>
-
-### 
-
-
-## ✅ Git Stats
-
-<div align="left">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeM207&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeM207&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeM207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
